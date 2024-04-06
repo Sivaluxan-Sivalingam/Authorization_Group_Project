@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9YbIYURuzbb3hPLKcaiRwzqwexyqpa5ch61J4lOkVFrkt/G3zZie8CkStqnBUVwy7XYEycwj7Xk5sIx+5cDx9Q==",
+  "dgSpecHash": "JZHbzEzxNHxB4rKVEb9rfz3kFUsIy0vb0AvYBxXbVFBj9WQYszk3tok4/wonBcHVeDriqrOtAXHb0FATNJ32cg==",
   "success": true,
-  "projectFilePath": "/Users/sivaluxan/Documents/Georgian_College/InformationEncodingStandards/Authorization_Final_Project/ContactManager.csproj",
+  "projectFilePath": "/Users/sivaluxan/Documents/Georgian_College/InformationEncodingStandards/Authorization_Final_Project/Authorization_Group_Project/ContactManager.csproj",
   "expectedPackageFiles": [
     "/Users/sivaluxan/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/sivaluxan/.nuget/packages/messagepack/2.1.152/messagepack.2.1.152.nupkg.sha512",

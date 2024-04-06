@@ -10435,11 +10435,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sivaluxan/Documents/Georgian_College/InformationEncodingStandards/Authorization_Final_Project/ContactManager.csproj",
+      "projectUniqueName": "/Users/sivaluxan/Documents/Georgian_College/InformationEncodingStandards/Authorization_Final_Project/Authorization_Group_Project/ContactManager.csproj",
       "projectName": "ContactManager",
-      "projectPath": "/Users/sivaluxan/Documents/Georgian_College/InformationEncodingStandards/Authorization_Final_Project/ContactManager.csproj",
+      "projectPath": "/Users/sivaluxan/Documents/Georgian_College/InformationEncodingStandards/Authorization_Final_Project/Authorization_Group_Project/ContactManager.csproj",
       "packagesPath": "/Users/sivaluxan/.nuget/packages/",
-      "outputPath": "/Users/sivaluxan/Documents/Georgian_College/InformationEncodingStandards/Authorization_Final_Project/obj/",
+      "outputPath": "/Users/sivaluxan/Documents/Georgian_College/InformationEncodingStandards/Authorization_Final_Project/Authorization_Group_Project/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sivaluxan/.nuget/NuGet/NuGet.Config"
